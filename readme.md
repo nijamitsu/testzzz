@@ -7,3 +7,4 @@ git remote add origin https://github.com/nijamitsu/testzzz.git
 git push -u origin main
 d
 x
+l
